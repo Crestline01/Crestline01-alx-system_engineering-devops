@@ -1,0 +1,11 @@
+
+Create a file name school.mgc
+line1: 0 string SCHOOL School data
+line2:  !:mime School
+
+Save and exit. No chmod this time around. Just this...
+
+file -C -m school.mgc
+Add
+Commit
+Push41;320;0c
